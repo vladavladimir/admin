@@ -110,3 +110,52 @@ background-color: darkgray;
 	border-style: dotted;
 	margin-bottom: 10px;
 }
+.login{
+background-image: url("/images/background.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	height: 700px;
+}
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: red;
+	color: white;
+	text-align: center;
+}
+.body1{
+	background-image: url("/images/3sMKgz.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	height: 900px;
+}
+.body2{
+	background-image: url("/images/d8282202e8adb36a20e88d27ffc3b15e.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	height: 1400px;
+}
+.body3{
+	background-image: url("/images/B4yFKvA.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	height: 900px;
+}
+.body4{
+	background-image: url("/images/images12.jpeg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	height: 900px;
+}

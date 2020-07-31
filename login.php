@@ -2,10 +2,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Registration system PHP and MySQL</title>
+	<title>Film sajt</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="icon" type="image/png" href="/images/images.png" sizes="128x128" />
 </head>
-<body>
+<body class="login">
 
 	<div class="header">
 		<h2>Login</h2>
@@ -17,11 +18,11 @@
 
 		<div class="input-group">
 			<label>Username</label>
-			<input type="text" name="username" >
+			<input type="text" name="username" placeholder="Unesi username">
 		</div>
 		<div class="input-group">
 			<label>Password</label>
-			<input type="password" name="password">
+			<input type="password" name="password" placeholder="Unesi password">
 		</div>
 		<div class="input-group">
 			<button type="submit" class="btn" name="login_btn">Login</button>
@@ -33,4 +34,7 @@
 
 
 </body>
+<footer class="footer">
+    <p>Sajt izradio Vladimir Markovic</p>
+</footer>
 </html>

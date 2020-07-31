@@ -11,6 +11,7 @@
 <head>
 	<title>Home</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="icon" type="image/png" href="/images/images.png" sizes="128x128" />
     <style>
         table {
             border-collapse: collapse;
@@ -30,7 +31,7 @@
         }
     </style>
 </head>
-<body>
+<body class="body3">
 	<div class="header">
 		<h2>Home Page</h2>
 	</div>
@@ -91,5 +92,7 @@
 
 
 </body>
-
+<footer class="footer">
+    <p>Sajt izradio Vladimir Markovic</p>
+</footer>
 </html>

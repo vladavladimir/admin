@@ -13,7 +13,8 @@
 <head>
 	<title>Home</title>
 	<link rel="stylesheet" type="text/css" href="../style.css">
-	<style>
+    <link rel="icon" type="image/png" href="/images/images.png" sizes="128x128" />
+    <style>
 	.header {
 		background: #003366;
 	}
@@ -22,7 +23,7 @@
 	}
 	</style>
 </head>
-<body>
+<body class="body2">
 	<div class="header">
 		<h2>Admin - Home Page</h2>
 	</div>

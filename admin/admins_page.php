@@ -100,6 +100,8 @@
         </table><br>
         <button type="submit" name="sacuvaj" class="btn btn-primary">Sacuvaj</button>
     </form>
-
+    <footer class="footer">
+        <p>Sajt izradio Vladimir Markovic</p>
+    </footer>
 
 </html>
